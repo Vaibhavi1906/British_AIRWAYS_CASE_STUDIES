@@ -28,8 +28,3 @@ This project focuses on analyzing British Airways customer reviews and booking d
 - **Pandas**: Data cleaning and manipulation.
 - **Matplotlib & Seaborn**: Data visualization.
 - **Scikit-Learn**: Regression modeling and evaluation.
-
-## Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/BA_Customer_Analysis.git
